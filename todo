@@ -1,0 +1,19 @@
+TODO:
+
+Products:
+*create ++
+*delete ++
+*read ++
+*edit ++
+
+Categories:
+*create --
+*delete ++ 
+*read ++
+*edit --
+
+comments:
+*create 
+*delete 
+*read
+*edit
